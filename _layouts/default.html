@@ -5,13 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% include meta.html %}
-    <title>{{ page.title | default: "Il Mio Sito" }}</title>
+    <title>{{ page.title | default: "Il Mio Sito" }} - gjdev</title>
 </head>
 <body>
     {% include header.html %}
     
     <main>
+        <div class="container">
         {{ content }}
+        </div>
     </main>
     
     {% include footer.html %}
