@@ -12,12 +12,3 @@ theme: minima
 plugins:
   - jekyll-feed
 
-social_links:
-  - name: Facebook
-    url: https://facebook.com/tuo_profilo
-  - name: Twitter
-    url: https://twitter.com/tuo_profilo
-  - name: Instagram
-    url: https://instagram.com/tuo_profilo
-  - name: GitHub
-    url: https://github.com/tuo_profilo
