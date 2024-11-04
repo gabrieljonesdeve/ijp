@@ -8,7 +8,7 @@ baseurl: "https://gabrieljonesdeve.github.io/ijp/" # the subpath of your site, e
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
