@@ -28,13 +28,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-tags:
-  - Tag 1
-  - Tag 2
-  - Tag 3
-  - Tag 4
+tags: Tag 1, Tag 2, Tag 3, Tag 4
 # Build settings
-theme: minima
+theme: GJD-THEMES
 plugins:
   - jekyll-feed
 
